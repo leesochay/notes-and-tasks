@@ -1,3 +1,6 @@
+const apiRouter = require('express').Router();
+const notesHelper = require('../db/notesHelper');
+
 // This API route is a GET Route for retrieving all the notes
 app.get('/notes', (req, res) => {
     console.info(`${req.method} request received for notes`);
@@ -22,3 +25,5 @@ app.get('/notes', (req, res) => {
       res.error('Error in adding note');
     }
   });
+
+  module.exports = apiRouter;
