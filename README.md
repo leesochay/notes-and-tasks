@@ -28,7 +28,11 @@ Accptance Crieria includes:
 - [Heroku](https://www.heroku.com)
 
 ## Usage
-Press the "Get Started" button on the homepage. 
+The applciation runs upon entering "node server.js" in the command line. From here, navigate to your browser and enter "localhost:3001". This is the local port in which the application is listening.
+You will be presented with the index.html file where the "Get Started" button can be clicked to take you to the notes page. In this page, notes can be entered (title and text), saved (by clicking the save icon), and deleted (clicking the trash can icon). New notes can be entered by clicking the "+" icon in the upper right of the navigation. Below are screenshots.
+
+![Inquirer Screenshot](https://github.com/leesochay/logo-maker/assets/128553488/0e4500be-7bb5-4901-bce3-e6db702d65bf)
+
 
 ## Contributing
 1. Class modules and activities really helped out with routing middleware code as well as the get, post, append, and deleted functions. MDN Express tutorial for routes syntax and functionality. YouTube Node .js & Express tutorials for Beginners: How to Setup Routes with Express Router by Dave Gray helped in providing a deeper understaning of routing for modular applications.
