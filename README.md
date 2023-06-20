@@ -32,7 +32,9 @@ The applciation runs upon entering "node server.js" in the command line. From he
 You will be presented with the index.html file where the "Get Started" button can be clicked to take you to the notes page. In this page, notes can be entered (title and text), saved (by clicking the save icon), and deleted (clicking the trash can icon). New notes can be entered by clicking the "+" icon in the upper right of the navigation. Below are screenshots.
 
 ![Note Taker Homepage](https://github.com/leesochay/notes-and-tasks/blob/main/images/NoteTakerHomepage.png)
-
+![Note Taker Notes Page](https://github.com/leesochay/notes-and-tasks/blob/main/images/NoteTakerNotesPage.png)
+![Note Taker Note to Save](https://github.com/leesochay/notes-and-tasks/blob/main/images/NoteTakerNotetoSave.png)
+![Note Taker Saved Note](https://github.com/leesochay/notes-and-tasks/blob/main/images/NoteTakerSavedNote.png)
 
 ## Contributing
 1. Class modules and activities really helped out with routing middleware code as well as the get, post, append, and deleted functions. MDN Express tutorial for routes syntax and functionality. YouTube Node .js & Express tutorials for Beginners: How to Setup Routes with Express Router by Dave Gray helped in providing a deeper understaning of routing for modular applications.
