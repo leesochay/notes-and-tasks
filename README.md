@@ -37,7 +37,11 @@ You will be presented with the index.html file where the "Get Started" button ca
 ![Note Taker Saved Note](https://github.com/leesochay/notes-and-tasks/blob/main/images/NoteTakerSavedNote.png)
 
 ## Contributing
-1. Class modules and activities really helped out with routing middleware code as well as the get, post, append, and deleted functions. MDN Express tutorial for routes syntax and functionality. YouTube Node .js & Express tutorials for Beginners: How to Setup Routes with Express Router by Dave Gray helped in providing a deeper understaning of routing for modular applications.
+Hat tips to
+ - Class modules and activities: These really helped me out with routing middleware code as well as the get, post, append, and deleted functions.
+ - [MDN Express tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes) for routes syntax and functionality.
+ - [How to Setup Routes with Express Router | Node.js & Express tutorials for Beginners](https://youtu.be/Zh7psmf1KAA). Dave Gray YouTube video helped in providing a deeper understanding of routing for modular 
+   applications.
 
 ## License
 MIT License
