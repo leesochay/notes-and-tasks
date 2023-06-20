@@ -28,6 +28,9 @@ Accptance Crieria includes:
 - [Heroku](https://www.heroku.com)
 
 ## Usage
+
+Deployed at: [whispering-woodland-80736-f6acea09dba7.herokuapp.com](https://whispering-woodland-80736-f6acea09dba7.herokuapp.com/)
+
 The applciation runs upon entering "node server.js" in the command line. From here, navigate to your browser and enter "localhost:3001". This is the local port in which the application is listening.
 You will be presented with the index.html file where the "Get Started" button can be clicked to take you to the notes page. In this page, notes can be entered (title and text), saved (by clicking the save icon), and deleted (clicking the trash can icon). New notes can be entered by clicking the "+" icon in the upper right of the navigation. Below are screenshots.
 
