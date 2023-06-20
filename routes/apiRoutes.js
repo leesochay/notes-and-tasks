@@ -21,11 +21,11 @@ router.post('/api/notes', (req, res) => {
     };
 
 // Append new notes to the db.json file
-    readAndAppend(newTask, './db/db.json');
-    res.json(`Tip added successfully`);
-  } else {
-    res.error('Error in adding tip');
-  }
+readAndAppend(newNote, './db/db.json');
+res.json(`Note added successfully`);
+} else {
+res.error('Error in adding note');
+}
 });
 
 // DELETE Route for a note
